@@ -263,6 +263,6 @@ En cambio, el repositorio `git-practica-2` fue clonado desde GitHub (ya tenía r
 
 <img width="1050" height="549" alt="image" src="https://github.com/user-attachments/assets/64acf5be-b22e-489b-ba27-6a9d205d25ce" />
 
-<img width="1050" height="497" alt="image" src="https://github.com/user-attachments/assets/e5a2b69f-33be-42f9-be35-7cd9c2d70146" />
-
 <img width="1050" height="476" alt="image" src="https://github.com/user-attachments/assets/d4a57c25-c3ab-478b-94e5-ae02b00122ca" />
+
+<img width="1919" height="835" alt="image" src="https://github.com/user-attachments/assets/f6987036-cb1d-4b2e-b4b2-826eaf96eaa7" />
