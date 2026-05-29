@@ -245,3 +245,24 @@ En cambio, el repositorio `git-practica-2` fue clonado desde GitHub (ya tenía r
 
 *Archivo generado como parte del Taller GIT - Práctica 2*  
 *Universidad Tecnológica del Norte de Guanajuato (UTNG)*
+
+
+---
+
+## Capturas y Evidencias
+
+---
+
+<img width="1050" height="904" alt="image" src="https://github.com/user-attachments/assets/56650776-bed6-40d1-98bf-79e2dd266396" />
+
+<img width="1050" height="710" alt="image" src="https://github.com/user-attachments/assets/283f323c-a079-43d8-86e2-ed01a4efd08a" />
+
+<img width="1050" height="506" alt="image" src="https://github.com/user-attachments/assets/6bc0ff5d-d54b-4ad6-aadb-e5bd3e38b8ec" />
+
+<img width="1050" height="547" alt="image" src="https://github.com/user-attachments/assets/77493ca0-9b8a-4bba-a98d-259d927ba526" />
+
+<img width="1050" height="549" alt="image" src="https://github.com/user-attachments/assets/64acf5be-b22e-489b-ba27-6a9d205d25ce" />
+
+<img width="1050" height="497" alt="image" src="https://github.com/user-attachments/assets/e5a2b69f-33be-42f9-be35-7cd9c2d70146" />
+
+<img width="1050" height="476" alt="image" src="https://github.com/user-attachments/assets/d4a57c25-c3ab-478b-94e5-ae02b00122ca" />
